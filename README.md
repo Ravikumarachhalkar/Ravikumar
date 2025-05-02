@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Frontend Developer | 🎨 UI/UX Enthusiast | 🧠 Creative Thinker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=⚡Crafting+Pixel+Perfect+UI+%26+UX;🎯Building+with+React.js+%26+TypeScript;👨‍💻Always+Learning+New+Tech!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=%E2%9A%A1Crafting+Pixel+Perfect+UI+%26+UX;%F0%9F%8E%AFBuilding+with+React.js+%26+TypeScript;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBAlways+Learning+New+Tech%21" alt="Typing Animation" />
 </p>
 
 
