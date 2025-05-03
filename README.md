@@ -39,7 +39,7 @@
 
 ### 📫 Let’s Connect!
 <p align="left">
-  <a href="https:www.linkedin.com/in/ravikumar-m-s-41b712230" target="_blank">
+  <a href="https//:www.linkedin.com/in/ravikumar-m-s-41b712230" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:raviachhalkar@gmail.com">
