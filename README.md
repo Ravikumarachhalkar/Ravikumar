@@ -9,7 +9,7 @@
 ---
 
 ### 🧠 About Me
-- 💻 I’m a **Frontend Developer** with a strong eye for design and user experience  
+- 💻 I’m a **Fullstack Developer** | **Frontend Developer** with a strong eye for design and user experience  
 - 🔭 Currently working on **React + Node.js full-stack projects**
 - 🌱 Learning **TypeScript**, **Next.js**, and **AI integrations**
 - ⚡ Fun fact: I love turning coffee ☕ into code
